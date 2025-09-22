@@ -18,3 +18,7 @@ image of phone    ------> defect? (0/1)          ------> visual inspection
 Regression
 Predict a number
 infinitely many possible outputs
+
+Classification
+predict categories
+small number of possible outputs
