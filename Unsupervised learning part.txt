@@ -1,0 +1,25 @@
+UnSupervised Learning
+====================
+
+Data only comes with inputs x, but not output labels y.
+Algorithm has to find structure in the data.
+
+Clustering
+--------------------
+Group similar data points together.
+
+Dimensionality reduction
+---------------------------
+Compress data using fewer numbers.
+
+Anomaly detection 
+---------------------
+Find unusual data points.
+
+Question
+=================================
+Examples osunsupervised learning algorithm 
+* Given a set of news articles found on the web, group them into sets of articles about the same 
+  stories.
+* Given a database of customer data, automatically discover market segments and group customers 
+  into different market segments.
