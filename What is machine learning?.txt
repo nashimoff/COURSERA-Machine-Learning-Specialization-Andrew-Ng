@@ -4,3 +4,9 @@ Field of study that gives computers the ability to learn
 without being explicitly programmed.
 Arthur Samuel (1959)
 
+* Supervised learning <--- course 1,2 (used most in real-world applications rapid advancements)
+* Unsupervised learning <--- course 3
+* Recommnder systems
+* Reinforcement learning
+===================
+Practical advice for applying learning algorithms 
